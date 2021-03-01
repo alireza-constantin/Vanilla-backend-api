@@ -1,6 +1,6 @@
-# Vanila NodeJS Backend Api 
+# Vanilla NodeJS Backend Api 
 
-> Simple Backend Api with Vanila NodeJs without any Framework
+> Simple Backend Api with Vanilla NodeJs without any Framework
  
 
 ## Install Dependencies
